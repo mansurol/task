@@ -1,0 +1,14 @@
+.HrStyle{
+    width: 100px;
+    margin: auto;
+    
+}
+.HrStyle hr{
+    border-top: 5px solid gray;
+}
+.HrStyleGreen{
+    width: 60px;
+}
+.HrStyleGreen hr {
+ border-top: 5px solid #D5EDC9;
+}

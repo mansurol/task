@@ -1,0 +1,37 @@
+.HrStylex{
+    width: 80px;
+    margin-left: 170px;
+}
+.HrStylex hr{
+    border-top: 5px solid white
+}
+.FullDivBgcolor{
+    background-color: #182F59;
+}
+.SectionNineCulamTwo{
+    margin: auto;
+}
+.SectionNineCulamTwoP p{
+    width: 460px;
+    height: 65px;
+    color:white;
+    font-size: 33px;
+   text-align: left;
+}
+.spaing{
+    padding-left: 130px;
+}
+.buttonColorStyele{
+   margin: auto;
+   padding-left: 100px;
+
+}
+.buttonBox{
+   width: 230px;
+   height: 35px; 
+   background-color: white;
+   border-radius: 5px;
+  
+
+
+}

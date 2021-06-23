@@ -1,0 +1,29 @@
+.HrStyle{
+    width: 100px;
+    margin: auto;
+}
+.HrStyle hr{
+    border-top: 5px solid gray;
+}
+
+.clintBox{
+    width: 538px;
+    height: 225px;
+    background-color: #F2F6FB;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.clintBox p{
+    width: 494px;
+    height: 95px;
+    font-size: 18px;
+    padding-left: 35px;
+}
+.HRstyleColor{
+    width: 100px;
+    margin: auto;
+}
+.HRstyleColor hr{
+    border: 2px solid #81CC5F;
+   
+}

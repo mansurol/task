@@ -1,0 +1,22 @@
+.HrStyle{
+    width: 100px;
+    margin: auto;
+}
+.HrStyle hr{
+    border-top: 5px solid gray;
+}
+.HrMaster{
+    width: 140px;
+    margin: auto;
+   
+}
+.HrMaster hr{
+    border-top: 3px solid gray;
+   
+}
+.SectionTenContent{
+    background-color: #F3F7FC;
+}
+.SectionTenImgStyle img{
+   width: 350px;
+}

@@ -1,0 +1,17 @@
+.HrStyle{
+    width: 100px;
+    margin: auto;
+    
+}
+.HrStyle hr{
+    border-top: 5px solid gray;
+}
+.lastPeraStyle{
+    margin-left: 160px;
+}
+.FULLSCAN{
+    text-align: center;
+}
+.bigImgStyle img{
+    width: 520px;
+}

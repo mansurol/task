@@ -1,0 +1,48 @@
+.HrStyle{
+    width: 100px;
+    margin: auto;
+}
+.HrStyle hr{
+    border-top: 5px solid gray;
+}
+.LineHight{
+    margin-top: 250px;
+}
+.boxCatagories{
+    width:200px;
+    height: 554px;
+    border: 1px solid gray;
+    border-top: 4px solid #182f59 ;
+   
+
+}
+.success{
+    color: #5bbc2e;;
+}
+.contentStyle p{
+    text-align:justify;
+    font-size: 14px;
+    width:180px;
+    padding-left: 15px;
+
+}
+.tickImg{
+    width: 22px;
+    height: 16px;
+    margin: auto;
+    padding-top: 25px;
+}
+.design{
+    margin-top: 290px;
+}
+.boxCatagoriesOne{
+    width:200px;
+    height: 506px;
+    background-color: #BFC2C6;
+   
+}
+.BorderInSideBar p{
+    border-bottom: 1px solid gray;
+    padding: 5px;
+    text-align: center;
+}
